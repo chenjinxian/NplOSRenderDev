@@ -1,7 +1,7 @@
 # NplOSRenderDev
 Off-screen rendering dll used on the NPLRuntime server
 
-### Build NplCefBrowser on Windows
+### Build NplOSRenderDev on Windows
 - Set BOOST_ROOT environment
 - Create a folder which named "NplOSRender"
 - Download [NPLRuntime](https://github.com/LiXizhi/NPLRuntime.git) and upzip it into [NplOSRender/NPLRuntime]
